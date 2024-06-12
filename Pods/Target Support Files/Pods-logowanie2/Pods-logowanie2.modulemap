@@ -1,0 +1,6 @@
+framework module Pods_logowanie2 {
+  umbrella header "Pods-logowanie2-umbrella.h"
+
+  export *
+  module * { export * }
+}
